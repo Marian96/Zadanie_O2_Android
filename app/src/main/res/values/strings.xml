@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">O2 Zadanie</string>
+
+    <string name="validation_error_min_8_chars">Minimálny počet znakov je 8</string>
+    <string name="validation_error_no_digit">Aspoň jedno číslo</string>
+    <string name="validation_error_no_upper_case_letter">Aspoň jedno veľké písmeno</string>
+    <string name="validation_error_no_special_character">Aspoň jeden špeciálny znak</string>
+    <string name="password_input_placeholder">Zadaj heslo</string>
+    <string name="password_label">Password input</string>
+    <string name="text_input_label">Text input</string>
+</resources>
